@@ -1,0 +1,8 @@
+{
+  "name": "ipo-exit-screener",
+  "version": "1.0.0",
+  "description": "IPO Exit Illusion & Hype Screener for Indian Stock Market",
+  "scripts": {
+    "install-all": "cd frontend && npm install"
+  }
+}

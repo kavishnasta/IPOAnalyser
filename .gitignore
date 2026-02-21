@@ -1,0 +1,15 @@
+node_modules/
+frontend/node_modules/
+backend/python/__pycache__/
+backend/__pycache__/
+backend/python/*.pkl
+backend/python/*.pdf
+.env
+backend/.env
+.DS_Store
+*.log
+frontend/dist/
+frontend/.vite/
+*.pyc
+__pycache__/
+*.env
