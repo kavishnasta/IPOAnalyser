@@ -1,0 +1,11 @@
+Company_Name,Symbol,Issue_Size,QIB_Subscription,HNI_Subscription,Retail_Subscription,PE_Ratio,OFS_Percentage,GMP_Listing_Day,Positive_Listing_Gain,Sector
+Paytm,PAYTM,18300,2.79,1.24,1.95,20.0,0.0,-27.25,False,FinTech
+Zomato,ZOMATO,9375,51.79,33.05,7.45,20.0,0.0,65.38,True,Technology
+Nykaa,NYKAA,5352,91.18,112.49,81.78,20.0,0.0,79.67,True,E-commerce
+Policybazaar,PB,5703,24.37,8.12,16.59,20.0,0.0,17.35,True,FinTech
+LIC,LIC,21000,2.83,2.91,2.9,20.0,0.0,-7.65,False,Insurance
+Delhivery,DELHIVERY,5235,22.17,5.83,9.85,20.0,0.0,-5.78,False,Logistics
+Star Health,STARHEALTH,7249,0.63,0.19,0.16,20.0,0.0,-5.9,False,Insurance
+One97 Communications,PAYTM,18300,2.79,1.24,1.95,20.0,0.0,-27.25,False,FinTech
+PB Fintech,PB,5703,24.37,8.12,16.59,20.0,0.0,17.35,True,FinTech
+Fino Payments Bank,FINO,1200,10.03,2.01,2.01,20.0,0.0,0.0,False,Banking
